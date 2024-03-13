@@ -1,4 +1,4 @@
-name: Changed Files
+name: Changed_Files
 description: Get all Added, Copied, Modified, Deleted, Renamed, Type changed, Unmerged, and Unknown files.
 author: tj-actions
 
